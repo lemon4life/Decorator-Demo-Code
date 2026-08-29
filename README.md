@@ -11,7 +11,6 @@ Decorator-Demo-Code/
 |-- main.cpp
 |-- Character.h
 |-- README.md
-|-- AI chat log.md
 `-- Character/
     |-- BaseHero.cpp
     |-- CharacterDecorator.cpp

@@ -1,0 +1,11 @@
+# VS Code
+.vscode/
+
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+
+# macOS
+.DS_Store
